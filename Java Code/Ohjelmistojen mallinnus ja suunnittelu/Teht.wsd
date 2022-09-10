@@ -1,0 +1,11 @@
+@startuml
+:firstactor:
+participant Tarjoilija
+database Kokki
+participant Kassahenkilö
+usecase 
+
+
+
+
+
